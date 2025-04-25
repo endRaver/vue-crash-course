@@ -1,7 +1,7 @@
 {
   "jobs": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Senior Vue Developer",
       "type": "Full-Time",
       "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
@@ -15,49 +15,21 @@
       }
     },
     {
-      "id": 2,
-      "title": "Front-End Engineer (Vue)",
-      "type": "Full-Time",
-      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
-      "location": "Miami, FL",
-      "salary": "$70K - $80K",
-      "company": {
-        "name": "Veneer Solutions",
-        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
-        "contactEmail": "contact@loremipsum.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
-    {
-      "id": 3,
-      "title": "Vue.js Developer",
-      "type": "Full-Time",
-      "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
-      "location": "Brooklyn, NY",
-      "salary": "$70K - $80K",
-      "company": {
-        "name": "Dolor Cloud",
-        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
-        "contactEmail": "contact@dolorsitamet.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
-    {
-      "id": 4,
-      "title": "Vue Front-End Developer",
+      "title": "Vue Front-End Developer1111",
       "type": "Part-Time",
-      "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
       "location": "Pheonix, AZ",
+      "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
       "salary": "$60K - $70K",
       "company": {
         "name": "Alpha Elite",
         "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
         "contactEmail": "contact@adipisicingelit.com",
         "contactPhone": "555-555-5555"
-      }
+      },
+      "id": "4"
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Full Stack Vue Developer",
       "type": "Full-Time",
       "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
@@ -71,7 +43,7 @@
       }
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Vue Native Developer",
       "type": "Full-Time",
       "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
@@ -82,6 +54,308 @@
         "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4f52",
+      "title": "Gretchen Mccarty",
+      "description": "Aut qui aut in est",
+      "salary": "$60K - $70K",
+      "location": "Voluptate consequunt",
+      "company": {
+        "name": "Sullivan Steele Associates",
+        "description": "Iure labore nemo ape",
+        "contactEmail": "hojyliji@mailinator.com",
+        "contactPhone": "+1 (279) 372-2768"
+      }
+    },
+    {
+      "id": "6b3f",
+      "title": "Mira Fuentes",
+      "description": "Excepteur sed incidu",
+      "salary": "$150K - $175K",
+      "location": "Sed sit distinctio",
+      "company": {
+        "name": "Copeland Underwood LLC",
+        "description": "Reprehenderit tempo",
+        "contactEmail": "xusenixove@mailinator.com",
+        "contactPhone": "+1 (279) 939-6055"
+      }
+    },
+    {
+      "id": "34c6",
+      "title": "Shelly Mosley",
+      "description": "Pariatur Perferendi",
+      "salary": "$125K - $150K",
+      "location": "Odio earum optio ut",
+      "company": {
+        "name": "Wheeler and Adkins LLC",
+        "description": "Similique sint adipi",
+        "contactEmail": "fyriduz@mailinator.com",
+        "contactPhone": "+1 (394) 667-7758"
+      }
+    },
+    {
+      "id": "5091",
+      "title": "Lucian Avery",
+      "description": "Voluptates ut offici",
+      "salary": "$50K - $60K",
+      "location": "Ab quidem ut qui qui",
+      "company": {
+        "name": "Barber Bradley Trading",
+        "description": "Saepe nisi sapiente ",
+        "contactEmail": "dipucedu@mailinator.com",
+        "contactPhone": "+1 (369) 213-6069"
+      }
+    },
+    {
+      "id": "356b",
+      "title": "Noel Munoz",
+      "description": "Qui cumque cumque co",
+      "salary": "$80K - $90K",
+      "location": "Dolorem ut ullamco c",
+      "company": {
+        "name": "Ortiz York LLC",
+        "description": "Deserunt aliquip off",
+        "contactEmail": "fyzowin@mailinator.com",
+        "contactPhone": "+1 (951) 489-9883"
+      }
+    },
+    {
+      "id": "c21f",
+      "title": "Carolyn Hale",
+      "description": "Omnis eu dolorem omn",
+      "salary": "Under $50K",
+      "location": "Vel proident qui qu",
+      "company": {
+        "name": "Mcclure and Key LLC",
+        "description": "Eaque fugiat ut ut a",
+        "contactEmail": "papukosi@mailinator.com",
+        "contactPhone": "+1 (602) 768-1356"
+      }
+    },
+    {
+      "id": "e445",
+      "title": "Avye Short",
+      "type": "Remote",
+      "location": "Non officia eius do ",
+      "description": "Corrupti ut perspic",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Huber Hahn Inc",
+        "description": "Corrupti ut excepte",
+        "contactEmail": "zipoluhocy@mailinator.com",
+        "contactPhone": "+1 (411) 508-5702"
+      }
+    },
+    {
+      "id": "a548",
+      "title": "Samuel Figueroa",
+      "type": "Internship",
+      "location": "Commodi eu accusamus",
+      "description": "Dicta officiis non e",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Jacobson and Parrish Traders",
+        "description": "Eligendi doloribus f",
+        "contactEmail": "bicak@mailinator.com",
+        "contactPhone": "+1 (808) 641-3033"
+      }
+    },
+    {
+      "id": "6e36",
+      "title": "Maxwell Decker",
+      "type": "Internship",
+      "location": "Minus perspiciatis ",
+      "description": "Optio id id commod",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Robbins Marsh Co",
+        "description": "Eos cumque esse ex d",
+        "contactEmail": "poqy@mailinator.com",
+        "contactPhone": "+1 (111) 812-1848"
+      }
+    },
+    {
+      "id": "16f5",
+      "title": "Zephania Roberts",
+      "type": "Full-Time",
+      "location": "Et et voluptas conse",
+      "description": "Accusamus sit aut es",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Bowers Wilkerson Co",
+        "description": "Labore id cumque exc",
+        "contactEmail": "teqegiben@mailinator.com",
+        "contactPhone": "+1 (527) 577-6045"
+      }
+    },
+    {
+      "id": "a2c8",
+      "title": "Derek Dillard",
+      "type": "Part-Time",
+      "location": "Eius ad facilis labo",
+      "description": "Commodi ex vitae dol",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Chang and Fulton Plc",
+        "description": "Velit nihil necessit",
+        "contactEmail": "waconu@mailinator.com",
+        "contactPhone": "+1 (557) 347-5551"
+      }
+    },
+    {
+      "id": "3c41",
+      "title": "Isaiah Levy",
+      "type": "Part-Time",
+      "location": "Ipsa sint ut consec",
+      "description": "Quis enim possimus ",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Perkins and Mullins Trading",
+        "description": "Quos Nam nisi ab sol",
+        "contactEmail": "wyhu@mailinator.com",
+        "contactPhone": "+1 (123) 988-8761"
+      }
+    },
+    {
+      "id": "4d73",
+      "title": "Paul Frazier",
+      "type": "Part-Time",
+      "location": "Eiusmod quisquam und",
+      "description": "Odit voluptatibus de",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Beasley and Logan Inc",
+        "description": "Eius soluta aute lab",
+        "contactEmail": "xujasowu@mailinator.com",
+        "contactPhone": "+1 (769) 426-3671"
+      }
+    },
+    {
+      "id": "a5c1",
+      "title": "Rafael Adkins",
+      "type": "Internship",
+      "location": "Voluptas beatae quas",
+      "description": "Minim aut fuga Susc",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Drake Craft LLC",
+        "description": "Dolore tenetur moles",
+        "contactEmail": "kisafat@mailinator.com",
+        "contactPhone": "+1 (709) 497-6923"
+      }
+    },
+    {
+      "id": "2912",
+      "title": "Kelly Rogers",
+      "type": "Internship",
+      "location": "Esse quia irure mag",
+      "description": "Nulla consequatur a",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Mccoy and Gross Plc",
+        "description": "Quis totam ullam dol",
+        "contactEmail": "repyrajepu@mailinator.com",
+        "contactPhone": "+1 (352) 955-2735"
+      }
+    },
+    {
+      "id": "8d93",
+      "title": "Daryl Dorsey",
+      "type": "Internship",
+      "location": "Nihil proident volu",
+      "description": "Eaque dolore veritat",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Wallace Sandoval Plc",
+        "description": "Ipsam consequat Eos",
+        "contactEmail": "hopyga@mailinator.com",
+        "contactPhone": "+1 (413) 385-3315"
+      }
+    },
+    {
+      "id": "a3a2",
+      "title": "Erich Mack",
+      "type": "Full-Time",
+      "location": "Quia minus impedit ",
+      "description": "Ea perspiciatis tem",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Cruz Perkins Traders",
+        "description": "Qui velit consequat",
+        "contactEmail": "gerozawi@mailinator.com",
+        "contactPhone": "+1 (862) 904-6943"
+      }
+    },
+    {
+      "id": "ab51",
+      "title": "Garrett Knight",
+      "type": "Full-Time",
+      "location": "Fugiat qui nobis in ",
+      "description": "Dolore dignissimos e",
+      "salary": "Over $200K",
+      "company": {
+        "name": "Herman and Nelson Plc",
+        "description": "Quidem magna eveniet",
+        "contactEmail": "dydoh@mailinator.com",
+        "contactPhone": "+1 (629) 108-4172"
+      }
+    },
+    {
+      "id": "44d1",
+      "title": "Sasha Jefferson",
+      "type": "Full-Time",
+      "location": "Incididunt quam in s",
+      "description": "Fuga Adipisci cupid",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Jennings and Barnett Traders",
+        "description": "Unde ex rerum non bl",
+        "contactEmail": "bonobidane@mailinator.com",
+        "contactPhone": "+1 (743) 979-1189"
+      }
+    },
+    {
+      "id": "ca09",
+      "title": "Ivy Burton",
+      "type": "Internship",
+      "location": "Non dolore error sed",
+      "description": "Quia amet amet aut",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Bernard and Hyde Co",
+        "description": "Pariatur Maxime opt",
+        "contactEmail": "mysahit@mailinator.com",
+        "contactPhone": "+1 (491) 148-2612"
+      }
+    },
+    {
+      "id": "4f96",
+      "title": "Serena Good",
+      "type": "Part-Time",
+      "location": "Velit accusantium et",
+      "description": "Tenetur dignissimos ",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Galloway and Norton Trading",
+        "description": "Molestiae vitae veni",
+        "contactEmail": "symuti@mailinator.com",
+        "contactPhone": "+1 (168) 666-1462"
+      }
+    },
+    {
+      "id": "8226",
+      "title": "Denton Hoffman",
+      "type": "Full-Time",
+      "location": "Culpa ipsam adipisci",
+      "description": "Nostrum expedita fug",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Bernard Wolf Plc",
+        "description": "Perspiciatis eos do",
+        "contactEmail": "nevy@mailinator.com",
+        "contactPhone": "+1 (265) 981-8851"
       }
     }
   ]
